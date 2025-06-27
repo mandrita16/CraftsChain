@@ -1,0 +1,20 @@
+{
+    "name": "Kantha Embroidered Elephant",
+    "description": "A handcrafted elephant by artisan Ramesh Ji using Kantha embroidery.",
+    "image": "bafkreib3fxy6adu5v3yz23cpquq6bkod3nhphtgooexyuwshqafwvf2yxa",
+    "attributes": [
+      {
+        "trait_type": "Craft Type",
+        "value": "Kantha"
+      },
+      {
+        "trait_type": "Region",
+        "value": "Bolpur, West Bengal"
+      },
+      {
+        "trait_type": "Eco Friendly",
+        "value": "Yes"
+      }
+    ]
+  }
+  
